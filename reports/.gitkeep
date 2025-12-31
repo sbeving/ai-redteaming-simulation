@@ -1,0 +1,5 @@
+# Reports directory
+# Generated reports will be placed here
+
+# This file exists to ensure the directory is tracked by git
+# while the actual reports are gitignored

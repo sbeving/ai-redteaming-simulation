@@ -1,0 +1,15 @@
+# Ignore log files
+*.log
+# Ignore build output
+dist/
+build/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore virtual environment directories
+venv/
+.env/
+
+airtsim.egg-info/
+.eggs/
