@@ -1,0 +1,9 @@
+# AI Red Team Simulation - Dependencies
+# Install: pip install -r requirements.txt
+
+pyyaml>=6.0
+rich>=13.0
+
+# Development dependencies (optional)
+# pytest>=7.0
+# pytest-cov>=4.0
